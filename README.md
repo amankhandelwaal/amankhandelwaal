@@ -3,10 +3,10 @@ _(caffeine-powered keyboard smasher)_
 
 CS undergrad @ PES University, Bangalore  
 
-- Building stuff that occasionally works on the first try  
-- Obsessed with AI, networks, and wondering why `sudo` won’t fix my life  
-- 50% debugging, 50% pretending I understand Docker  
-- Half developer, half caffeine molecule  
+- Building stuff that _occasionally_ works (first try is a myth).
+- Obsessed with AI, networks, and wondering why `sudo` won’t fix my life.  
+- 50% debugging, 50% pretending I understand Docker.
+- Half developer, half caffeine molecule. 
 
 **Current Status:**  
 - ✅ Writing code  
