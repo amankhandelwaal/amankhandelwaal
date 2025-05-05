@@ -1,16 +1,16 @@
-## Hi there 👋
+# 127.0.0.1::Aman Khandelwal  
+_(caffeine-powered keyboard smasher)_
 
-<!--
-**amankhandelwaal/amankhandelwaal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS undergrad @ PES University, Bangalore  
 
-Here are some ideas to get you started:
+- Building stuff that occasionally works on the first try  
+- Obsessed with AI, networks, and wondering why `sudo` won’t fix my life  
+- 50% debugging, 50% pretending I understand Docker  
+- Half developer, half caffeine molecule  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Current Status:**  
+- ✅ Writing code  
+- ❌ Understanding how `git rebase` works  
+- ❌ Having a sleep schedule  
+
+_"If my code runs, it’s a feature. If it crashes, it’s a learning experience."_
